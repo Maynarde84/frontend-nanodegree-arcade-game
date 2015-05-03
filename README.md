@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
-===============================
+Leigh Mandalov's Frogger Game
+-----------------------------
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+To Start - Double click on "index.html" in the base directory.
 
-for self-checking their submission.
+To Play - Use the arrow keys (up, down, left and right) on the keyboard to move the character.
+	- Avoid the bugs!
+
+Hope you enjoy :)

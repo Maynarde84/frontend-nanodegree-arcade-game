@@ -75,6 +75,8 @@ Player.prototype.handleInput = function(keys) {
 			} break;
 		case 'up':
 			if (this.y < 90) {
+				this.x = 202.5;
+				this.y = 395;
 				break;
 			} else {
 				this.y = this.y - 85;
